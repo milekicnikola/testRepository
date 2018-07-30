@@ -7,3 +7,5 @@ Made some changes on master branch.
 Trying to cause an error.
 
 Atempt failed. Trying again.
+
+I made a change.
