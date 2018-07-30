@@ -1,3 +1,5 @@
 This is a file for playing with git.
 
-Testing tagging
+Testing tagging.
+
+I made a change.
