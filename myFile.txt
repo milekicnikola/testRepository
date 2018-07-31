@@ -1,6 +1,6 @@
-This is a file for playing with git.
+This is a file for playing with git.    
 
-This is text on master branch
+This is text on master branch			
 
 Testing tagging.
 
