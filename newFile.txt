@@ -9,3 +9,5 @@ And again
 This is master branch
 
 This is myBranch
+
+Trying to rebase
