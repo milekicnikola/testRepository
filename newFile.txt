@@ -5,3 +5,7 @@ And it is now modified
 And it is modified again
 
 And again
+
+This is master branch
+
+This is myBranch
