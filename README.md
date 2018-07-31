@@ -7,4 +7,6 @@ Something else
 
 Testing
 
+Merging
+
 Some text
