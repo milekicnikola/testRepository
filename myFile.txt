@@ -17,3 +17,6 @@ Testing merging again
 And again
 
 Change
+
+Creating conflict
+
