@@ -1,3 +1,42 @@
 This is a file for playing with git.
 
 This is text on master branch
+
+Testing tagging.
+
+Made some changes on master branch.
+
+Trying to cause an error.
+
+Atempt failed. Trying again.
+
+I made a change.
+
+Testing tagging
+
+Testing merging again
+
+And again
+
+Change
+
+Testing tagging.
+
+Made some changes on master branch.
+
+Trying to cause an error.
+
+Atempt failed. Trying again.
+
+I made a change.
+
+Testing tagging
+
+Testing merging again
+
+And again
+
+Change
+
+My branch
+
