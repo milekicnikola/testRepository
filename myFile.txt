@@ -1,5 +1,7 @@
 This is a file for playing with git.
 
+Insert something here
+
 Testing tagging.
 
 Made some changes on master branch.
