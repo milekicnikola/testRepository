@@ -10,3 +10,5 @@ Testing
 Merging
 
 Some text
+
+No merged
