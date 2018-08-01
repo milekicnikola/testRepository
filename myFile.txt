@@ -10,3 +10,7 @@ From myBranch.
 
 Some text.
 
+Some more text.
+
+And some more.
+
