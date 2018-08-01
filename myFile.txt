@@ -8,3 +8,12 @@ Made some changes on master branch.
 
 From myBranch.
 
+And again
+
+Some text.
+
+Some more text.
+
+And some more.
+
+And more.

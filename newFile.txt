@@ -11,3 +11,9 @@ This is master branch
 This is myBranch
 
 Trying to rebase
+
+Again
+
+Something new
+
+Something else new
