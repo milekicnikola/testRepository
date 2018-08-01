@@ -13,3 +13,9 @@ This is myBranch
 Trying to rebase
 
 Something new
+
+Again
+
+Something new
+
+Something else new
